@@ -1,0 +1,218 @@
+
+
+
+@media (max-width: 1199px){
+
+}
+@media (max-width: 991px){
+	.slider-aria .slider-item .slider-content{
+ 	width: 100%;
+ 	padding-left: 15px;
+ 	padding-right: 15px;
+    }
+    .image-section {
+    margin-top: -40px;
+    }
+    .tab-aria .tab-list ul li {
+    font-size: 20px;
+    }
+}
+@media (max-width: 767px){
+
+     .image-section {
+        margin-top: 0px;
+    }
+
+     /*slider-section*/
+
+	.slider-aria .slider-item .slider-content span{
+		font-size: 1rem;
+	}
+	.slider-aria .slider-item .slider-content h2 {
+    font-size: .7rem;
+	}
+	.slider-aria .slider-item .slider-content p {
+    font-size: .5rem;
+    margin-bottom: 10px;
+	}
+	.slider-aria .slider-item .slider-content .slider-button {
+    margin-top: 10px;
+    }
+	.our-btn {
+    font-size: 10px;
+    padding: 6px 10px;
+    }
+    .our-bolut{
+    	bottom: 8px;
+    }
+    .slider-aria .slider-item .slider-content{
+ 	transform: translate(-50%, -70%);
+    }
+    .slider-arrow .right-arrow {
+    top: 40%;
+    right: 3px;    }
+    .slider-arrow .left-arrow {
+    top: 40%;
+    left: 10px;
+    }
+    .our-bolut li {
+    width: 5px;
+    height: 5px;
+	}
+    .our-bolut{
+    	bottom: 10px;
+    }
+/*	slider-section
+*/	.header-section{
+		display: block;
+		text-align: center;
+	}
+	.header .header-section
+	.header-left ul{
+		display: block;
+	} 
+	.header .header-section
+	.header-left ul li{
+		padding-top: 5px;
+		padding-bottom: 5px;
+	} 
+	.header .header-section 
+	.header-right .social-icon ul{
+        display: block;
+	}
+	.header .header-section 
+	.header-right .social-icon ul li{
+        display: inline-block;
+	}
+	/*we do ari*/
+	 .wedo-image-section img {
+        max-width: 100%;
+        display: block;
+        width: 100%;
+     }
+	.wedo-image-section {
+	    margin-bottom: -55px;
+	}
+
+	/*recent-work-ari*/
+	.recent .title-section {
+	    margin-top: 35px;
+	    margin-bottom: 0px;
+	}
+	.recent .work-menu-secrion ul {
+    flex-wrap: wrap;
+	}
+	.recent .work-menu-secrion {
+	    margin-bottom: 5px;
+	}
+	.tab-aria .tab-list ul li {
+    flex-wrap: wrap;
+    width: 33%;
+    }
+    .tab-aria .tab-list ul li a {
+    padding: 5px;
+    font-size: 8px;
+	}
+	.our-tab-content .text-aria h3 {
+    font-size: 12px;
+    margin-bottom: 5px;
+	}
+	.text-aria p{
+		font-size: 10px;
+		margin-bottom: 3px;
+	}
+	.our-tab-content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+	}
+	.big-banner .body-title h2 {
+    font-size: 12px;
+	}
+	.body-title .big-button {
+    padding: 10px;
+	}
+	.our-team {
+    padding-top: 30px;
+	}
+	.our-team .title-section {
+    margin-bottom: 12px;
+	}
+	.our-blog .our-blog-title .title-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+   .about-studio-button{
+   	text-align: center;
+   }
+   /*footer-section  */
+   .logo-widge{
+    margin-bottom: 0px;
+    }
+    .logo-widge  img{
+        width: 70px;
+    }
+}
+
+
+@media (max-width: 480px){
+	.header .header-section .header-left ul li,
+    .header .header-section .header-right .social-icon ul li{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 10px;
+	color: #fff;
+    }
+    .header .header-section .header-right .social-icon ul li{
+	padding: 5px;
+
+	}
+@media (max-width: 320px){
+	.slider-aria .slider-item .slider-content span{
+		font-size: 12px;
+	}
+	.slider-aria .slider-item .slider-content h2 {
+    font-size: 10px;
+	}
+	.slider-aria .slider-item .slider-content p {
+    font-size: 6px;
+    margin-bottom: 5px;
+	}
+	.slider-aria .slider-item .slider-content .slider-button {
+    margin-top: 5px;
+    }
+	.our-btn {
+    font-size: 5px;
+    padding: 5px 10px;
+    }
+    .our-bolut{
+    	bottom: 5px;
+    }
+    .slider-aria .slider-item .slider-content{
+ 	transform: translate(-50%, -75%);
+    }
+    .slider-arrow .right-arrow {
+    top: 30%;
+    right: 3px;    }
+    .slider-arrow .left-arrow {
+    top: 30%;
+    left: 10px;
+    }
+    /*about sectiom*/
+    .image-section img {
+    top: 10px;
+    left: 10px;
+   }
+
+   .main-title h2 {
+   	font-size: 14px;
+   }
+   .title-section .sub-title {
+    font-size: 9px;
+    color: black;
+   }
+   .about-content .p-style p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 10px;
+   }
+}
